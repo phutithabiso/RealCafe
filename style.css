@@ -1,0 +1,106 @@
+
+body {
+
+object-fit: cover;
+background: #201520;
+border-radius: 23.86px;
+scrollbar-width: none;
+color: #FFFFFF;
+font-family: Rosarivo;
+}
+.capacino1{
+        margin: 0px;
+        padding: 3px;
+        border-radius: 23.86px;
+}
+.image1{
+
+     justify-content: center;
+     align-items: fit-content;
+     border-radius: 23.86px;
+     width: 374px;
+     height:300px;
+      object-fit: cover;
+
+
+}
+.arrow_back {
+  position: absolute;
+  top: 23.86px;
+  left: 15.51px;
+  border-radius: 50px;
+  border: 1px solid #000000;
+  width: 23.86px;
+  height: 23.86px;
+  background: #201520;
+}
+.arrow_back .material-symbols-outlined {
+  color: #ffffff;
+}
+.info1{
+  display: inline-flex;
+ gap: 14rem;
+  width: 374px;
+}
+.favourate{
+    margin: 16px;
+
+}
+.text{
+font-family: Rosarivo;
+font-size: 23.31px; 
+color: #FFFFFF;
+
+}
+
+.info2{
+    display: flex;
+}
+.info2, h2{
+    font-family: Rosarivo;
+    font-size: 14.31px;
+    color: #FFFFFF;
+}
+.rating{
+    margin-top: 0;
+    margin-left:30px;
+   
+}
+.rating, .rating-p{
+    display:inline-block;
+}
+.btn-oats{
+border-radius: 5.96px;
+background: #EFE3C8;
+border: 1px solid #EFE3C8;
+gap: 6px;
+ padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+.btn-milk{
+    border-radius: 5.96px;
+    border: 1px solid #EFE3C8;
+    color: #EFE3C8;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #201520;
+}
+
+.buy{
+    
+border-radius: 5.96px;
+background: #EFE3C8;
+border: 1px solid #EFE3C8;
+gap: 6px;
+ padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+
+}
+
